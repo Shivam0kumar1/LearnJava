@@ -9,7 +9,7 @@ public class main {
 		boolean b = true;
 		boolean b2 = false;
 		char c = 'h';
-		String str = "sdh76";//non primitive data type
+		String str = "sdh76";  //non primitive data type
 		
 		System.out.println("Hello World");
 		System.out.println("Hello Word 2!");
